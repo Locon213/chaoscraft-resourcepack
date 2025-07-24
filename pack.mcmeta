@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 12,       // для Minecraft 1.20–1.21; если у тебя другая версия, уточни pack_format
+    "description": "ChaosCraft Logo Pack"
+  }
+}
